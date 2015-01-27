@@ -4,11 +4,11 @@ function execute() {
   var loader;
 
   // List of feeds to retrieve
-  /*var feeds = {
-    section_a: "http://www.rusticasyurbanas.com/2.0/index.php/respuestajbpoint/get/zoo/categories/444?app=9&maxsubs=2&limit=10&orderby=id&orderdir=desc",
-    section_b: "http://www.rusticasyurbanas.com/2.0/index.php/respuestajbpoint/get/zoo/items?category=444&app=9&maxsubs=2&limit=10&orderby=id&orderdir=desc",
-    section_c: "http://www.support4joomla.com/jbackend/rest/get/content/articles?catid=29&maxsubs=2&limit=10&orderby=id&orderdir=desc"
-  };*/
+	var feeds = {
+    section_a: "http://www.rusticasyurbanas.com/2.0/index.php/respuestajbpoint/get/zoo/categories?app=9",
+    section_b: "http://www.rusticasyurbanas.com/2.0/index.php/respuestajbpoint/get/zoo/categories/444?app=9",
+    section_c: "http://www.rusticasyurbanas.com/2.0/index.php/respuestajbpoint/get/zoo/categories/445?app=9"
+  };
 
   // List of feeds to retrieve
   var feeds = {
