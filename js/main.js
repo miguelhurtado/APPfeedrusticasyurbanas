@@ -12,9 +12,9 @@ function execute() {
 
   // List of feeds to retrieve
   var feeds = {
-    section_a: "feed.php?id=64",
-    section_b: "feed.php?id=26",
-    section_c: "feed.php?id=29"
+    section_a: "feed.php?id=9",
+    section_b: "feed.php?id=444",
+    section_c: "feed.php?id=445"
   };
 
   // Back buttons must load first page
