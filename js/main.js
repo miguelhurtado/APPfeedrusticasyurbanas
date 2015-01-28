@@ -11,11 +11,11 @@ function execute() {
   };
 
   // List of feeds to retrieve
-  var feeds = {
+  /*var feeds = {
     section_a: "feed.php?id=9",
     section_b: "feed.php?id=444",
     section_c: "feed.php?id=445"
-  };
+  };*/
 
   // Back buttons must load first page
   $('#btnRssBack').on('click', function(e) {
