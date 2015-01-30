@@ -7,7 +7,7 @@ function execute() {
 	var feeds = {
     section_a: "http://www.rusticasyurbanas.com/2.0/index.php/respuestajbpoint/get/zoo/categories?app=9",
     section_b: "http://www.rusticasyurbanas.com/2.0/index.php/respuestajbpoint/get/zoo/categories/444?app=9",
-    section_c: "http://www.rusticasyurbanas.com/2.0/index.php/respuestajbpoint/get/zoo/categories/445?app=9"
+    section_c: "http://www.rusticasyurbanas.com/2.0/index.php/respuestajbpoint/get/zoo/items?category=444&app=9"
   };
 
   // List of feeds to retrieve
